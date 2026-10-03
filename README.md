@@ -1,7 +1,7 @@
 # Hi there! I'm Aliem
 
 🌍 Based in **Makassar, Indonesia**  
-💻 I'm a **Fullstack Developer** 
+💻 I'm a **Fullstack Developer**  
 💼 Currently working as **Asst. Manager Fullstack Developer** at **Ejen2u International Sdn Bhd**  
 🚀 Founder of **[Kodingkuy](https://kodingkuy.com/)** 
 
